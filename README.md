@@ -50,3 +50,7 @@ GET /scenarios → List all scenarios
 GET /scenarios/:id → Get scenario details
 
 POST /report/generate → Create ROI report
+
+<img width="1536" height="1024" alt="ChatGPT Image Oct 7, 2025, 04_14_23 PM" src="https://github.com/user-attachments/assets/65d63696-18ed-4743-8be9-86b4ba653e16" />
+
+
